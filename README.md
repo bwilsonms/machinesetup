@@ -1,7 +1,7 @@
 # machinesetup
 Using Boxstarter and Choco to setup a basic machine
 
-From Powershell on the new machine.
+From an Administrator PowerShell on the new machine.
 
 Step 1: . { iwr -useb https://boxstarter.org/bootstrapper.ps1 } | iex; Get-Boxstarter -Force
 
